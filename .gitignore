@@ -1,0 +1,37 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.sln.docstates
+*.sln.iml
+
+# ReSharper
+.resharper
+*.resharper.user
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# Local environment
+.env
+appsettings.local.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+*.swp
